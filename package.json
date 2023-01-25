@@ -1,7 +1,7 @@
 {
   "name": "elysia-test",
   "workspaces": [
-    "app",
-    "server"
+    "./app",
+    "./server"
   ]
 }
